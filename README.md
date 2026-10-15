@@ -22,6 +22,13 @@ Focus areas:
 - Trends over time
 - Business performance indicators
 
+## 📸 Sales Dashboard Gallery
+[Sales Dashboard](screenshots/sales-overview.png)  
+[Sales Page 2](screenshots/sales-page-2.png)
+[Sales Page 3](screenshots/sales-page-3.png)
+[Sales Page 4](screenshots/sales-page-4.png)
+[Sales Page 5](screenshots/sales-page-5.png)
+
 Skills demonstrated: Data preparation, KPI visualization, and dashboard design.
 
 2. Insurance Data Analysis
@@ -36,6 +43,9 @@ Focus areas:
 
 Skills demonstrated: Data modeling, data visualization, and business reporting.
 
+## 📸 Sales Dashboard Gallery
+![Insurance Dashboard](screenshots/insurance-dashboard.png)
+
 3. UPI Transactions Data Analysis
 
 Objective: Analyze UPI transaction data to explore transaction patterns and trends.
@@ -45,6 +55,9 @@ Focus areas:
 - Transaction trends over time
 - Payment methods and transaction categories
 - Comparisons across available customer or transaction attributes
+  
+## 📸 Sales Dashboard Gallery
+[UPI Dashboard](screenshots/upi-dashboard.png)
 
 Skills demonstrated: Data transformation, interactive reporting, and visual analytics.
 
